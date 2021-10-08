@@ -10,6 +10,8 @@ I'm a lucky father of three kids 🐣🐣🐣 and, whilst enjoying programming, 
   If you've an e.g. CI environment where you can parallelize jobs, you can use this to truly parallelize phpunit. Since it's a pure phpunit XML solution, it also works with [paratest](https://github.com/paratestphp/paratest) if you want to squeeze out the last bit of your compute units.
 - [In the context of OSS, what I think about extendability of libraries](https://github.com/wildbit/swiftmailer-postmark/pull/33#issuecomment-687601800)\
   Undoubtedly influenced by the great [Fabien Potencier](http://fabien.potencier.org/pragmatism-over-theory-protected-vs-private.html).
+- [Relevancy of PHPs `fastcgi.logging` in container with php-fpm/nginx](https://github.com/docker-library/php/issues/878#issuecomment-938595965)\
+  TL;DR: probably a good idea to disable it!
 
 ### In case I'm not in front of the digital world
 - I might be going for a run 🏃‍♂️
